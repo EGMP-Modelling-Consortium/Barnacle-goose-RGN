@@ -1,2 +1,2 @@
 # Barnacle-goose-RGN
-Population modelling for Barnacle goose Russia/Germany & Netherlands Population
+Population modelling for Barnacle Goose Russia/Germany & Netherlands Population
